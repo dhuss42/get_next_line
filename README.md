@@ -35,6 +35,6 @@ cc -Wall -Werror -Wextra get_next_line.c get_line_utils.c ./tests/main.c -o get_
 
 Bonus test
 ```
-cc -Wall -Werror -Wextra get_next_line_bonus.c get_next_line_utils_ests/main_bonus.c -o get_next_line_bonus
+cc -Wall -Werror -Wextra get_next_line_bonus.c get_next_line_utils_bonus.c ./tests/main_bonus.c -o get_next_line_bonus
 ./get_next_line_bonus
 ```
