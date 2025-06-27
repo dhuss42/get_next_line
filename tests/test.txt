@@ -1,0 +1,10 @@
+This is a test for get_next_line
+This is line 2
+The next line is empty
+
+1
+This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long! This line is very long!
+bye
+
+
+[end]
