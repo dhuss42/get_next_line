@@ -15,8 +15,6 @@ For this project, I set out to create get_next_line(), a function that reads a l
 
 My get_next_line() function reads a file descriptor and returns one line at a time, including the newline character when applicable. If there’s nothing left to read or an error occurs, it returns NULL. The function works dynamically, meaning it doesn’t load the entire file into memory at once but reads small chunks using a BUFFER_SIZE defined at compilation.
 
----
-
 ## 3. Bonus
 
 The bonus for this project consisted of the following:
