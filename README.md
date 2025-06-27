@@ -23,5 +23,18 @@ Managing multiple file descriptors simultaneously – If I read from different f
 
 ## 4. How to run
 ```
-git clone 
+git clone https://github.com/dhuss42/get_next_line.git get_next_line
+cd get_next_line
+```
+
+Ordinary test
+```
+cc -Wall -Werror -Wextra get_next_line.c get_line_utils.c ./tests/main.c -o get_next_line
+./get_next_line
+```
+
+Bonus test
+```
+cc -Wall -Werror -Wextra get_next_line_bonus.c get_next_line_utils_ests/main_bonus.c -o get_next_line_bonus
+./get_next_line_bonus
 ```
